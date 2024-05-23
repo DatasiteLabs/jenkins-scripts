@@ -24,3 +24,8 @@ JOB: <full_uri>
 	repo: <gitpath>
 ```
 
+## List All Agents
+
+Loops through connected agents and lists name and URL
+
+`agent: <name> <URL>`
